@@ -1,0 +1,2 @@
+# Đặt kết thúc dòng thành LF cho các tệp cụ thể
+*.json text eol=lf
